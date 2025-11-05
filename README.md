@@ -29,9 +29,4 @@ A mini project demonstrating **Spring Framework + Hibernate ORM Integration**, f
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/yourusername/OnlineStudentManagementSystem.git
-cd OnlineStudentManagementSystem
